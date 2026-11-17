@@ -13,7 +13,7 @@
       <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="2.6s" repeatCount="indefinite"/>
       <rect width="130" height="48" rx="24" fill="url(#html)"/>
       <g clip-path="url(#p)"><rect x="-50" y="-5" width="24" height="60" fill="#fff" opacity="0.35" transform="skewX(-20)"><animate attributeName="x" values="-50;170" dur="3s" repeatCount="indefinite"/></rect></g>
-      <text x="65" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">HTML5</text>
+      <text x="65" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#fff">HTML</text>
     </g>
   </g>
 
