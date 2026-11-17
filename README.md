@@ -18,12 +18,11 @@
 
 </div>
 
-- 🙋 Mình là **MilanVu**, **14 tuổi**
+- 🙋 Mình là **MilanVu**, **14 tuổi** **Hic, nhìn tuổi có vẻ hơi phi lí nhưng mình khá thích tìm tòi bộ môn này kaka**
 - 🌱 Mới bắt đầu lập trình, vẫn còn **tay mơ** nhưng rất háo hức học hỏi
-- 💖 Ngôn ngữ yêu thích: **HTML  Swift  Python  C++**
-- 🦫 Yêu **capybara** vô điều kiện
-- 🎯 Mục tiêu: làm ra những dự án thật của riêng mình
-- 📫 Luôn sẵn lòng kết bạn và học hỏi từ mọi người
+- 💖 Ngôn ngữ yêu thích: **HTML, Swift, Python  C++**
+- 🦫 Yêu **capybara** vãi đáiii
+- 📫 Luôn thân thiện và hơi ngốc nghếch kaka
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,5,4,3,2,0,11&height=4" width="100%" />
 
@@ -31,13 +30,13 @@
 
 <div align="center">
 
-<img src="tech.svg" width="720" alt="HTML5, Python, Swift, Linux, iOS" />
+<img src="tech.svg" width="720" alt="HTML, Python, Swift, Linux, iOS" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,4,5,6,11&height=4" width="100%" />
 
-## 🦫 Vì sao mình mê Capybara?
+## 🦫 Capybara 
 
 <div align="center">
 
@@ -45,14 +44,14 @@
 
 </div>
 
-> 💡 *Học code cũng nên chill như capybara: từ từ, đều đặn, không vội vàng!*
+> 💡 *Học code cũng chill như capybara: từ từ, đều đặn, không vội vàng!*
 
 <details>
-<summary>🎁 <b>Bấm vào đây để xem một bí mật nhỏ</b></summary>
+<summary>🎁 <b>Bất ngờ nìii</b></summary>
 
 <br/>
 
-Capybara là loài gặm nhấm **lớn nhất thế giới**. Nếu bạn đang đọc dòng này, chúc bạn một ngày thật chill! 🦫💖
+Capybara là loài gặm nhấm **lớn nhất thế giới**. Nếu bạn đang đọc dòng này, chúc bạn một ngày thật quá đã nhaa! 🦫💖
 
 </details>
 
@@ -62,7 +61,7 @@ Capybara là loài gặm nhấm **lớn nhất thế giới**. Nếu bạn đang
 
 <div align="center">
 
-🐙 **GitHub:** [github.com/MilanVu](https://github.com/MilanVu)
+🐙 **GitHub:** [github.com/milanvudev](https://github.com/milanvudev)
 
 <br/>
 
