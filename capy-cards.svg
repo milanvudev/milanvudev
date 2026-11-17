@@ -18,8 +18,8 @@
         <path d="M-20 14 Q-22 -22 16 -24 Q18 14 -20 14 Z"/>
         <path d="M-22 18 L8 -10" stroke="#1e9e6a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
       </g>
-      <text x="92.5" y="104" text-anchor="middle" font-size="18" font-weight="bold" fill="#fff">Siêu chill</text>
-      <text x="92.5" y="128" text-anchor="middle" font-size="12" fill="#fff">Luôn bình thản</text>
+      <text x="92.5" y="104" text-anchor="middle" font-size="18" font-weight="bold" fill="#fff">Chill guy</text>
+      <text x="92.5" y="128" text-anchor="middle" font-size="12" fill="#fff">Thư giãn đê bạn ơi</text>
     </g>
   </g>
 
@@ -50,7 +50,7 @@
         <path d="M0 -24 Q24 6 0 22 Q-24 6 0 -24 Z"/>
       </g>
       <text x="92.5" y="104" text-anchor="middle" font-size="18" font-weight="bold" fill="#fff">Mê tắm nước</text>
-      <text x="92.5" y="128" text-anchor="middle" font-size="12" fill="#fff">Ngâm mình là chân ái</text>
+      <text x="92.5" y="128" text-anchor="middle" font-size="12" fill="#fff">Ngâm nước nóng quá đã</text>
     </g>
   </g>
 
