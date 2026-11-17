@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=200&section=header&text=MilanVu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Newbie%20Coder%20%7C%20Capybara%20Lover&descAlignY=62&descSize=20" width="100%" />
 
 <a href="https://github.com/MilanVu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF5FA2&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+MilanVu+%F0%9F%91%8B;14+tuoi+%7C+Moi+bat+dau+lap+trinh+%F0%9F%8C%B1;Yeu+Capybara+Vai+Dai+%F0%9F%A6%AB;Code+hom+nay%2C+gioi+hon+ngay+mai+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF5FA2&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+MilanVu+%F0%9F%91%8B;14+tuoi+%7C+Moi+bat+dau+lap+trinh+%F0%9F%8C%B1;Yeu+Capybara+Vai+Dai+%F0%9F%A6%AB;Code+hom+nay+ngu+%2C+ngay+mai+ngu+hon+kaka+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="rainbow.svg" width="100%" alt="" />
