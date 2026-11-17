@@ -18,7 +18,7 @@
 
 </div>
 
-- 🙋 Mình là **MilanVu**, **14 tuổi** **Hic, nhìn tuổi có vẻ hơi phi lí nhưng mình khá thích tìm tòi bộ môn này kaka**
+- 🙋 Mình là **MilanVu**, **20 tuổi** **Hic, nhìn tuổi có vẻ hơi phi lí nhưng mình khá thích tìm tòi bộ môn này kaka**
 - 🌱 Mới bắt đầu lập trình, vẫn còn **tay mơ** nhưng rất háo hức học hỏi
 - 💖 Ngôn ngữ yêu thích: **HTML, Swift, Python  C++**
 - 🦫 Yêu **capybara** vãi đáiii
