@@ -18,7 +18,7 @@
 
 </div>
 
-- 🙋 Mình là **MilanVu**, **20 tuổi** **Hic, nhìn tuổi có vẻ hơi phi lí nhưng mình khá thích tìm tòi bộ môn này kaka**
+- 🙋 Mình là **MilanVu**, **14 tuổi** **Hic, nhìn tuổi có vẻ hơi phi lí nhưng mình khá thích tìm tòi bộ môn này kaka**
 - 🌱 Mới bắt đầu lập trình, vẫn còn **tay mơ** nhưng rất háo hức học hỏi
 - 💖 Ngôn ngữ yêu thích: **HTML, Swift, Python  C++**
 - 🦫 Yêu **capybara** vãi đáiii
@@ -57,13 +57,16 @@ Capybara là loài gặm nhấm **lớn nhất thế giới**. Nếu bạn đang
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,5,4,3,2,0,11&height=4" width="100%" />
 
-## 🤝 Kết nối với mình
+## 🤝 MXH của mìn ở đayyy
 
 <div align="center">
 
-🐙 **GitHub:** [github.com/milanvudev](https://github.com/milanvudev)
+<a href="https://github.com/milanvudev"><img src="https://img.shields.io/badge/%20%20%20%20-181717?style=for-the-badge&logo=github&logoColor=white" height="46" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://t.me/milanvudev"><img src="https://img.shields.io/badge/%20%20%20%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="46" alt="Telegram" /></a>&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@milanvudev"><img src="https://img.shields.io/badge/%20%20%20%20-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="46" alt="TikTok" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/milanvudev"><img src="https://img.shields.io/badge/%20%20%20%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="46" alt="Facebook" /></a>
 
-<br/>
+<br/><br/>
 
 > ✨ *"Everyone starts as a beginner. Keep coding, stay chill like a capybara!"* 🦫
 
