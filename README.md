@@ -1,56 +1,115 @@
-### Hi there 👋, I'm MilanVu
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/MilanVu">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-💼-blue?style=flat-square" alt="Open to Work" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=MilanVu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Newbie%20Coder%20%7C%20Learning%20every%20day&descAlignY=58&descSize=20" width="100%" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MilanVu+%F0%9F%91%8B;20+years+old+%7C+Beginner+Developer+%F0%9F%8C%B1;Loves+HTML+%7C+Swift+%7C+Python+%7C+C%2B%2B;Code+today%2C+better+tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working as a **[Your Job Title, e.g., Software Engineer]**
-- 🌱 I’m currently learning **[Your Learning Topic, e.g., AI & Machine Learning]**
-- 👯 I’m looking to collaborate on **[Your Interests, e.g., Open Source Projects]**
-- 💬 Ask me about **[Your Expertise, e.g., Web Development, Python]**
-- 📍 Based in **[Your Location, e.g., Ho Chi Minh City, VN]**
-- ☕ Fun fact: I love **[Your Hobby, e.g., Coffee and Coding]**
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MilanVu&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MilanVu?style=for-the-badge&logo=github&color=8A2BE2)
+![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## 👋 About Me
 
-**Languages:**
+```js
+const milanVu = {
+  name: "MilanVu",
+  age: 20,
+  level: "Beginner 🌱",
+  currentlyLearning: ["HTML", "Swift", "Python", "C++"],
+  goal: "Trở thành lập trình viên giỏi 💪",
+  motto: "Mỗi dòng code là một bước tiến!",
+};
+```
+
+- 🎂 **20 tuổi**, mới bắt đầu bước vào thế giới lập trình
+- 🌱 Vẫn còn **tay mơ**, nhưng rất háo hức học hỏi
+- 💖 Ngôn ngữ yêu thích: **HTML, Swift, Python, C++**
+- 🎯 Mục tiêu: xây dựng những dự án thật của riêng mình
+- 📫 Luôn sẵn lòng kết nối và học hỏi từ mọi người
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Learning Progress
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilanVu&show_icons=true&theme=radical&hide_border=true" alt="MilanVu's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanVu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+| Ngôn ngữ | Mức độ | Tiến độ |
+|:--------:|:------:|:-------|
+| 🌐 HTML | Beginner | ![](https://progress-bar.dev/40/?width=200&color=E34F26) |
+| 🍎 Swift | Beginner | ![](https://progress-bar.dev/20/?width=200&color=FA7343) |
+| 🐍 Python | Beginner | ![](https://progress-bar.dev/30/?width=200&color=3776AB) |
+| ⚙️ C++ | Beginner | ![](https://progress-bar.dev/15/?width=200&color=00599C) |
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MilanVu&show_icons=true&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanVu&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MilanVu&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MilanVu&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Mục tiêu năm nay
+
+- [x] Bắt đầu học lập trình
+- [ ] Làm xong 1 trang web đầu tay bằng HTML
+- [ ] Viết vài chương trình nhỏ bằng Python
+- [ ] Thử làm một app đơn giản bằng Swift
+- [ ] Hiểu rõ cơ bản về C++
+
+---
+
+## 🤝 Kết nối với mình
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MilanVu-181717?style=for-the-badge&logo=github)](https://github.com/MilanVu)
+
+</div>
+
+<div align="center">
+
+> *"Everyone starts as a beginner. Keep coding!"* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
+
+</div>
