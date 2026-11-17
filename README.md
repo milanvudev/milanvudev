@@ -20,7 +20,7 @@
 
 - 🙋 Mình là **MilanVu**, **14 tuổi**
 - 🌱 Mới bắt đầu lập trình, vẫn còn **tay mơ** nhưng rất háo hức học hỏi
-- 💖 Ngôn ngữ yêu thích: **HTML · Swift · Python · C++**
+- 💖 Ngôn ngữ yêu thích: **HTML  Swift  Python  C++**
 - 🦫 Yêu **capybara** vô điều kiện
 - 🎯 Mục tiêu: làm ra những dự án thật của riêng mình
 - 📫 Luôn sẵn lòng kết bạn và học hỏi từ mọi người
